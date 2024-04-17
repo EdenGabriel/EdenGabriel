@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 <!-- theme: default  radical  merko  gruvbox  onedark-->
 <img width="40%" src="https://github-readme-stats-ruby-phi-57.vercel.app/api?username=EdenGabriel&show_icons=true&theme=tokyonight&border_radius=15&count_private=true" align="right" alt="logo">
 <!--  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=EdenGabriel&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
